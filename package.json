@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
+  "author": "coder7475",
+  "description": "This is a project that is stored in github and shared by glich"
   "dependencies": {
     "express": "^4.14.0"
   },
