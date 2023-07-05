@@ -1,9 +1,13 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "coder7475",
-  "description": "This is a project that is stored in github and shared by glich"
+  "author": "Robiul Hossain",
+  "description": "Project shared live with the help of Glich",
+  "keywords": ["freecodecamp", "glich", "git", "github"],
+  "version": "1.1.0",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.1.13"
   },
   "main": "server.js",
   "scripts": {
